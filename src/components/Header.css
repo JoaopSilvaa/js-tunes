@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+}
+
+.link-header {
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(206, 206, 206)
+}
+
+.link-header:hover {
+    color: white;
+    transition: 0.4s;
+}

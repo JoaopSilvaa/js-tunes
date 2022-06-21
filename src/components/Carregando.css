@@ -1,0 +1,25 @@
+@keyframes load {
+    0% {
+        transform: rotate(0deg); 
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.carregando-div {
+    display: flex;
+}
+
+.span-carregando {
+    padding-right: 5px;
+    color: white;
+}
+
+.loading {
+    font-size: 20px;
+    transform: rotate(360deg);
+    transition: 1s;
+    animation: load 2s linear infinite;
+    color: white;
+}

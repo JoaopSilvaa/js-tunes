@@ -1,0 +1,10 @@
+.player {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+.favorite-check {
+    margin-right: 5px;
+}

@@ -1,0 +1,11 @@
+.album-page {
+    margin: 15px;
+}
+
+.album-page>h1 {
+    padding-bottom: 10px;
+}
+
+.album-page>h2 {
+    margin-bottom: 20px;
+}

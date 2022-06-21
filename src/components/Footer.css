@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 0;
+    color: white;
+}
+
+.icons {
+    font-size: 50px;
+    margin: 10px;
+    color:white;
+}
+
+p {
+    font-weight: 700;
+    text-align: center;
+}

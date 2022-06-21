@@ -1,0 +1,29 @@
+.form-profileEditPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.label-profile-edit {
+    width: 70%;
+    margin: 10px;
+}
+
+.input-profile-edit {
+    width: 100%;
+    font-size: 15px;
+    padding: 3px;
+}
+
+.button-save {
+    margin-top: 30px;
+    padding: 8px;
+    font-size: 15px;
+}
+
+.button-save:enabled:hover {
+    background-color: royalblue;
+    transition: 0.4s;
+}

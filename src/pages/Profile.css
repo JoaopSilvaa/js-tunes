@@ -1,0 +1,52 @@
+.page-profile {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.titles {
+    text-align: left;
+    font-size: 20px;
+    color: rgb(180, 180, 180);
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+.descriptions {
+    text-align: left;
+    font-size: 15px;
+}
+
+.goto-edit {
+    background-color: rgb(180, 180, 180);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.goto-edit:hover {
+    background-color: royalblue;
+    transition: 0.4s;
+}
