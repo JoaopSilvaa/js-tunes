@@ -25,11 +25,11 @@ npm install
   ```
 
 ## Gifs de demonstração do projeto
-- Login e adicionando despesas
-![imagem](gifs/)
+- Login pesquisa de albuns, favoritando músicas e desfavoritando
+![imagem](gifs/Gif1.gif)
 
-- Editando e excluindo despesas
-![imagem](gifs/)
+- Tela de profile, edição de profile e visualização de profile editado
+![imagem](gifs/Gif2.gif)
 
 
 Este projeto foi desenvolvido por [João Antônio](https://www.linkedin.com/in/joaoantoniosilvaa/) durante o curso de Desenvolvimento de Software na [Trybe](https://www.betrybe.com/) 
